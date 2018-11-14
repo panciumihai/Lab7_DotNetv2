@@ -6,13 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "DataLayer/1.0.0": {
+      "BusinessLayer/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "2.1.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.4"
+          "DataLayer": "1.0.0"
         },
         "runtime": {
-          "DataLayer.dll": {}
+          "BusinessLayer.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/2.1.4": {
@@ -506,11 +505,20 @@
         "dependencies": {
           "System.Runtime": "4.1.0"
         }
+      },
+      "DataLayer/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.4"
+        },
+        "runtime": {
+          "DataLayer.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "DataLayer/1.0.0": {
+    "BusinessLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -885,6 +893,11 @@
       "sha512": "sha512-k1S4Gc6IGwtHGT8188RSeGaX86Qw/wnrgNLshJvsdNUOPP9etMmo8S07c+UlOAx4K/xLuN9ivA1bD0LVurtIxQ==",
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
+    },
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -4,3 +4,6 @@ C:\Users\Mihai\Documents\GitHub\Lab7_DotNetv2\DataLayer\obj\Debug\netcoreapp2.1\
 C:\Users\Mihai\Documents\GitHub\Lab7_DotNetv2\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
 C:\Users\Mihai\Documents\GitHub\Lab7_DotNetv2\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
 C:\Users\Mihai\Documents\GitHub\Lab7_DotNetv2\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\Mihai\Documents\GitHub\Lab7_DotNetv2\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Mihai\Documents\GitHub\Lab7_DotNetv2\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Mihai\Documents\GitHub\Lab7_DotNetv2\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb

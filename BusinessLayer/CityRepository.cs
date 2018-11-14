@@ -6,7 +6,7 @@ using DataLayer;
 
 namespace BusinessLayer
 {
-    class CityRepository
+    public class CityRepository : ICityRepository
     {
         private readonly CityContext _context;
 
