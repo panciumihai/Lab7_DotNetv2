@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mihai\\source\\repos\\Lab7_DotNet\\Lab7_DotNet\\Lab7_DotNet.csproj",
+      "projectUniqueName": "C:\\Users\\Mihai\\Documents\\GitHub\\Lab7_DotNetv2\\Lab7_DotNet\\Lab7_DotNet.csproj",
       "projectName": "Lab7_DotNet",
-      "projectPath": "C:\\Users\\Mihai\\source\\repos\\Lab7_DotNet\\Lab7_DotNet\\Lab7_DotNet.csproj",
+      "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\Lab7_DotNetv2\\Lab7_DotNet\\Lab7_DotNet.csproj",
       "packagesPath": "C:\\Users\\Mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mihai\\source\\repos\\Lab7_DotNet\\Lab7_DotNet\\obj\\",
+      "outputPath": "C:\\Users\\Mihai\\Documents\\GitHub\\Lab7_DotNetv2\\Lab7_DotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
