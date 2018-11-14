@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using DataLayer;
 
 namespace BusinessLayer
 {
-    public class PoiRepository
+    public class PoiRepository : IPoiRepository
     {
         private readonly PoiContext _context;
 
