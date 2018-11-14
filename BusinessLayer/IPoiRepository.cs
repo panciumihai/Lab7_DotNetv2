@@ -4,7 +4,7 @@ using DataLayer;
 
 namespace BusinessLayer
 {
-    interface IPoiRepository
+    public interface IPoiRepository
     {
         void Create(Poi city);
         void Edit(Guid id, Poi city);

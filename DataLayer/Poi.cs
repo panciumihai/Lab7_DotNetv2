@@ -10,5 +10,11 @@ namespace DataLayer
         public string Name { get; set; }
         public string Description { get; set; }
         public Guid CityId { get; set; }
+
+        public Poi(string Name, string Description)
+        {
+            this.Name = Name;
+            this.Description = Description;
+        }
     }
 }
