@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using BusinessLayer;
 using DataLayer;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Lab7_DotNet.Controllers
@@ -46,12 +43,7 @@ namespace Lab7_DotNet.Controllers
             return CreatedAtRoute("GetById", new { id = city.CityId }, city);
         }
 
-        [Route("{cityId}/pois/{poiId}")]
-        public ActionResult<IEnumerable<Poi>> GetPoisByCity(int cityId)
-        {
-            return Ok();
-        }
-
+        
 
     }
 }
